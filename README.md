@@ -3,7 +3,7 @@
 ```
 https://cdn.jsdelivr.net/gh/fanghsiu/cdn/img/lty.jpg
 ```
-<img src="https://cdn.jsdelivr.net/gh/fanghsiu/cdn/img/lty.jpg">
+<p><img src="https://cdn.jsdelivr.net/gh/fanghsiu/cdn/img/lty.jpg"></p>
 
 ```
 https://fastly.jsdelivr.net/gh/fanghsiu/cdn/img/lty.jpg
