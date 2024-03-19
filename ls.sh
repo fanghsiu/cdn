@@ -15,5 +15,5 @@ for file in img/*; do
     url="https://cdn.fanghsiu.top/img/$filename"
 
     # 将结果写入README.md文件
-    echo $url >> README.md
+    echo  "$url  " >> README.md
 done
