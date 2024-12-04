@@ -1,7 +1,7 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/","dest": "https://cdn.fanghsiu.top/gh/fanghsiu/cdn@main/"},
+      {"src": "/","dest": "https://github.com/fanghsiu/cdn/tree/main/img/"},
       {"src": "/(.*)","dest": "https://cdn.jsdelivr.net"}
     ]
 }
