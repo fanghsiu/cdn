@@ -1,7 +1,7 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/","dest": "https://cdn.jsdelivr.net/gh/fanghsiu/cdn@latest/"},
+      {"src": "/","dest": "https://cdn.jsdelivr.net/gh/fanghsiu/cdn@latest/img/"},
       {"src": "/(.*)","dest": "https://cdn.jsdelivr.net"}
     ]
 }
