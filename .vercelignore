@@ -1,3 +1,4 @@
 # Ignore everything (folders and files) on root only
 /*
+!index.html
 !vercel.json
