@@ -1,7 +1,7 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/","dest": "https://www.jsdelivr.com/package/gh/fanghsiu/cdn?tab=files"},
+      {"src": "/","dest": "/index.html"},
       {"src": "/(.*)","dest": "https://cdn.jsdelivr.net"}
     ]
 }
