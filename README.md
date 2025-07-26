@@ -1,2 +1,2 @@
 # Image Hosting
-https://cdn.fanghsiu.top
+https://cdn.fanghsiu.cn
